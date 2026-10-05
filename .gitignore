@@ -2,7 +2,7 @@
 # PlatformIO
 # ==============================
 .pio/
-.managed_components/
+managed_components/
 
 # ==============================
 # VS Code
